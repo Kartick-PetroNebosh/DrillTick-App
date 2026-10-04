@@ -60,7 +60,7 @@ One app with two areas, **Operations** and **Safety**, and one consistent screen
 | Three record types, one dashboard | Observations, near misses and incidents converted to one common shape |
 | A failed inspection can't be argued away | A critical defect or any failed minor item forces an overall FAIL |
 
-The full table is in the [Project Highlights](docs/DrillTick_Project_Highlights.docx) document.
+The full table is in the [Project Highlights](docs/DrillTick_Project_Highlights.pdf) document.
 
 ---
 
@@ -72,69 +72,69 @@ Each part of the app has its own guide. GitHub does not preview Word files, so o
 
 | Document | Covers |
 |---|---|
-| [Project Highlights](docs/DrillTick_Project_Highlights.docx) | The product story, feature highlights and engineering decisions |
-| [00 · App Overview](docs/00_DrillTick_Overview.docx) | The whole app on one page, with a map of every area |
+| [Project Highlights](docs/DrillTick_Project_Highlights.pdf) | The product story, feature highlights and engineering decisions |
+| [00 · App Overview](docs/00_DrillTick_Overview.pdf) | The whole app on one page, with a map of every area |
 
 ### Foundations
 
 | Document | Covers |
 |---|---|
-| [01 · Setup & Startup](docs/01_Setup_and_Startup.docx) | Packages, theme, splash screen and the shared bottom bar |
-| [02 · Home & Navigation](docs/02_Home_and_Navigation.docx) | The hubs and the colour language |
-| [03 · Data Storage & Saved Sheets](docs/03_Data_Storage_and_Saved_Sheets.docx) | The local database and save slots |
+| [01 · Setup & Startup](docs/01_Setup_and_Startup.pdf) | Packages, theme, splash screen and the shared bottom bar |
+| [02 · Home & Navigation](docs/02_Home_and_Navigation.pdf) | The hubs and the colour language |
+| [03 · Data Storage & Saved Sheets](docs/03_Data_Storage_and_Saved_Sheets.pdf) | The local database and save slots |
 
 ### MWD training tools
 
 | Document | Covers |
 |---|---|
-| [04 · MWD Survey Simulation](docs/04_MWD_Survey_Simulation.docx) | Taking a survey on a simulated rig floor |
-| [05 · MWD Downlinking Simulation](docs/05_MWD_Downlinking_Simulation.docx) | Three ways of sending commands to a tool |
-| [06 · Rig Drill Sensors](docs/06_Rig_Drill_Sensors.docx) | Wiring and calibrating the rig sensors |
+| [04 · MWD Survey Simulation](docs/04_MWD_Survey_Simulation.pdf) | Taking a survey on a simulated rig floor |
+| [05 · MWD Downlinking Simulation](docs/05_MWD_Downlinking_Simulation.pdf) | Three ways of sending commands to a tool |
+| [06 · Rig Drill Sensors](docs/06_Rig_Drill_Sensors.pdf) | Wiring and calibrating the rig sensors |
 
 ### Well control
 
 | Document | Covers |
 |---|---|
-| [07 · Well Control Hub](docs/07_Well_Control_Hub.docx) | The map of well-control tools |
-| [08 · SCR Measure: Surface](docs/08_SCR_Measure_Surface.docx) | Slow-rate pressures for surface BOP wells |
-| [09 · SCR Measure: Subsea](docs/09_SCR_Measure_Subsea.docx) | The deepwater version with riser margin |
-| [10 · Kill Sheet: Surface](docs/10_Kill_Sheet_Surface.docx) | The eight-calculation IWCF kill sheet |
-| [11 · Kill Sheet: Subsea](docs/11_Kill_Sheet_Subsea.docx) | The nine-calculation version with IDCP |
+| [07 · Well Control Hub](docs/07_Well_Control_Hub.pdf) | The map of well-control tools |
+| [08 · SCR Measure: Surface](docs/08_SCR_Measure_Surface.pdf) | Slow-rate pressures for surface BOP wells |
+| [09 · SCR Measure: Subsea](docs/09_SCR_Measure_Subsea.pdf) | The deepwater version with riser margin |
+| [10 · Kill Sheet: Surface](docs/10_Kill_Sheet_Surface.pdf) | The eight-calculation IWCF kill sheet |
+| [11 · Kill Sheet: Subsea](docs/11_Kill_Sheet_Subsea.pdf) | The nine-calculation version with IDCP |
 
 ### Safety reporting
 
 | Document | Covers |
 |---|---|
-| [12 · Safety Hub & Dashboard](docs/12_Safety_Hub_and_Dashboard.docx) | The safety menu and seven dashboard pages |
-| [13 · Report An Event](docs/13_Report_An_Event.docx) | The entry point and the shared form pattern |
-| [14 · Incident Report](docs/14_Incident_Report.docx) | The most detailed reporting form |
-| [15 · Near Miss Report](docs/15_Near_Miss_Report.docx) | Capturing the event that almost caused harm |
-| [16 · Observations](docs/16_Observations.docx) | Safe behaviour, unsafe act and unsafe condition |
-| [17 · HSE Monthly Report](docs/17_HSE_Monthly_Report.docx) | Monthly statistics, training and inspections |
+| [12 · Safety Hub & Dashboard](docs/12_Safety_Hub_and_Dashboard.pdf) | The safety menu and seven dashboard pages |
+| [13 · Report An Event](docs/13_Report_An_Event.pdf) | The entry point and the shared form pattern |
+| [14 · Incident Report](docs/14_Incident_Report.pdf) | The most detailed reporting form |
+| [15 · Near Miss Report](docs/15_Near_Miss_Report.pdf) | Capturing the event that almost caused harm |
+| [16 · Observations](docs/16_Observations.pdf) | Safe behaviour, unsafe act and unsafe condition |
+| [17 · HSE Monthly Report](docs/17_HSE_Monthly_Report.pdf) | Monthly statistics, training and inspections |
 
 ### Checklists
 
 | Document | Covers |
 |---|---|
-| [18 · Checklists, Part 1](docs/18_Checklists_Part1.docx) | Orientation, Pre-Spud, Drops and SIMOPS |
-| [19 · Checklists, Part 2](docs/19_Checklists_Part2.docx) | Inspection / Audit, Mast & Substructure, Contractor |
+| [18 · Checklists, Part 1](docs/18_Checklists_Part1.pdf) | Orientation, Pre-Spud, Drops and SIMOPS |
+| [19 · Checklists, Part 2](docs/19_Checklists_Part2.pdf) | Inspection / Audit, Mast & Substructure, Contractor |
 
 ### Permit to Work
 
 | Document | Covers |
 |---|---|
-| [20 · Permit to Work](docs/20_Permit_to_Work.docx) | The six permits and the shared five-section form |
-| [21 · Hot & Cold Work Permits](docs/21_Hot_and_Cold_Work_Permits.docx) | Work with and without ignition risk |
-| [22 · Confined Space & Working at Height](docs/22_Confined_Space_and_Working_at_Height_Permits.docx) | Enclosed spaces and fall risk |
-| [23 · Electrical, Excavation & Radiography](docs/23_Electrical_Excavation_and_Radiography_Permits.docx) | Lock-out, ground work and a planned permit |
+| [20 · Permit to Work](docs/20_Permit_to_Work.pdf) | The six permits and the shared five-section form |
+| [21 · Hot & Cold Work Permits](docs/21_Hot_and_Cold_Work_Permits.pdf) | Work with and without ignition risk |
+| [22 · Confined Space & Working at Height](docs/22_Confined_Space_and_Working_at_Height_Permits.pdf) | Enclosed spaces and fall risk |
+| [23 · Electrical, Excavation & Radiography](docs/23_Electrical_Excavation_and_Radiography_Permits.pdf) | Lock-out, ground work and a planned permit |
 
 ### Lifting operations
 
 | Document | Covers |
 |---|---|
-| [24 · Crane Lifting Plan](docs/24_Crane_Lifting_Plan.docx) | Load chart, daily check, lift plan and tandem lift |
-| [25 · Lifting Manual](docs/25_Lifting_Manual.docx) | A visual reference for rigging and crane lifts |
-| [26 · Rigging & Slinging](docs/26_Rigging_and_Slinging.docx) | Equipment register, inspection and calculations |
+| [24 · Crane Lifting Plan](docs/24_Crane_Lifting_Plan.pdf) | Load chart, daily check, lift plan and tandem lift |
+| [25 · Lifting Manual](docs/25_Lifting_Manual.pdf) | A visual reference for rigging and crane lifts |
+| [26 · Rigging & Slinging](docs/26_Rigging_and_Slinging.pdf) | Equipment register, inspection and calculations |
 
 ---
 
