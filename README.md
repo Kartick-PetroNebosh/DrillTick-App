@@ -66,7 +66,7 @@ The full table is in the [Project Highlights](docs/DrillTick_Project_Highlights.
 
 ## Documentation
 
-Each part of the app has its own guide. GitHub does not preview Word files, so open a link and choose **Download**.
+Each part of the app has its own guide.
 
 ### Start here
 
